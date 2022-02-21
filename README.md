@@ -67,6 +67,7 @@ A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão
 
 ------------
 
+### Rodando o Código
 
 Recomendo utilizar a IDE Eclipse (E antes de tudo abaixe o código fonte :D)
 Com a IDE aberta, vá em File > Open Projects > Selecione Desafio-Capgemini 
