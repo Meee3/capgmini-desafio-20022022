@@ -66,7 +66,14 @@ Explicação:
 A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão nas posições [[0, 3]], [[8, 9]] e [[0, 1, 2], [1, 2, 3]].
 
 ------------
-Vamos executar o programa pelo Shell/Bash mesmo pessoal,
+
+
+Recomendo utilizar a IDE Eclipse (E antes de tudo abaixe o código fonte :D)
+Com a IDE aberta, vá em File > Open Projects > Selecione Desafio-Capgemini 
+
+Após importado o projeto, acesse o pacote (default) e Abra o One.java e de o Play(Run)
+
+A questão dois se localiza na pasta questionTwo, basta abrir o Two.java e o terceiro em questionThree(Three.java)
 
 
 
